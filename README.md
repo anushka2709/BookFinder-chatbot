@@ -27,6 +27,10 @@ Entity: @genre:romance
 
 The bot responds with a suitable book recommendation.
 
+🚀 Live Preview
+🔗 
+
+
 🧰 Technologies Used
 💬 IBM Watson Assistant
 🖥️ HTML5 + CSS3
