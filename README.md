@@ -42,3 +42,11 @@ Here’s a look at the chatbot UI embedded in the web page:
 
 <img src="https://github.com/anushka2709/BookFinder-chatbot/blob/main/chatbot-ui.png" alt="Chatbot UI" width="700"/>
 
+### 📁 Project Structure
+
+BookFinder-chatbot/
+├── index.html         # Main HTML file with chatbot
+├── README.md          # Project description
+├── chatbot-preview.png # UI Screenshot
+
+
