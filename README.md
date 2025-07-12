@@ -36,3 +36,9 @@ The bot responds with a suitable book recommendation.
 🖥️ HTML5 + CSS3
 🧠 NLP (Intent + Dialog Flow)
 ☁️ GitHub Pages (for hosting)
+
+🖼️ Chatbot Preview
+Here’s a look at the chatbot UI embedded in the web page:
+
+<img src="https://github.com/anushka2709/BookFinder-chatbot/blob/main/chatbot-ui.png" alt="Chatbot UI" width="700"/>
+
