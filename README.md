@@ -10,9 +10,13 @@ This chatbot:
 
 💡 Features
 📖 Book suggestions by genre or author
+
 💬 Intent and entity detection via IBM Watson
+
 🖥️ Frontend designed using HTML, CSS, and Poppins font
+
 🌐 Works right in your browser – no login required
+
 🛠️ Easy to customize and scale
 
 🧪 How It Works
