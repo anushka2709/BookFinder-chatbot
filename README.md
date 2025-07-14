@@ -3,12 +3,17 @@ A smart and simple web-based chatbot that recommends books using IBM Watson Assi
 
 🧠 What It Does
 This chatbot:
+
 ->Understands what kind of books you want (genre, author, etc.)
+
 ->Recommends books instantly using Watson Assistant’s AI
+
 ->Has a friendly and clean UI made with HTML + CSS
+
 ->Can be easily embedded in any website or project
 
-💡 Features
+💡 Features:
+
 📖 Book suggestions by genre or author
 
 💬 Intent and entity detection via IBM Watson
@@ -35,10 +40,14 @@ The bot responds with a suitable book recommendation.
 🔗  https://anushka2709.github.io/BookFinder-chatbot/
 
 
-🧰 Technologies Used
+🧰 Technologies Used:
+
 💬 IBM Watson Assistant
+
 🖥️ HTML5 + CSS3
+
 🧠 NLP (Intent + Dialog Flow)
+
 ☁️ GitHub Pages (for hosting)
 
 🖼️ Chatbot Preview
